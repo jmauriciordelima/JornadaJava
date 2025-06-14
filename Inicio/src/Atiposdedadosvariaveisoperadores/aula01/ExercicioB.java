@@ -1,4 +1,4 @@
-package Aestruturascondicionais.aula01;
+package Atiposdedadosvariaveisoperadores.aula01;
 
 public class ExercicioB {
 
