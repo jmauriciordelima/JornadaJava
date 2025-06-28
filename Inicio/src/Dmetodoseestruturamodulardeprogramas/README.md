@@ -138,9 +138,3 @@ Cada funcionalidade deve ser um **método separado**. Use `ArrayList` para armaz
 **Moral:** Quando dividimos o trabalho (como em métodos), o código fica mais limpo, mais rápido e mais fácil de manter.
 
 ---
-
-## ✅ Pronto para praticar?
-
-Se quiser, posso revisar seus exercícios ou montar a base dos métodos para você preencher.
-
-Deseja que eu monte os esqueletos dos exercícios para facilitar a prática?
